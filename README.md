@@ -4,11 +4,14 @@ A responsive React application that allows users to search for books by title us
 
 
 🚀 Live Demo
-Add your deployed link here (e.g., Netlify, Vercel, GitHub Pages)
+Stackblitz deployed link here (https://stackblitz.com/~/github.com/Sahil8709/Book-Finder)
 
 
 🎥 Demo Video
-Add your video walkthrough link here (e.g., Loom, YouTube)
+Google Drive Demo video link (https://drive.google.com/file/d/1xAHEYGEInEx74wftyRMWjD4VpUH95JKU/view?usp=drivesdk)
+
+ 🧠 chatgpt link of my project = (https://chatgpt.com/share/68b188c6-0348-8013-9188-ed356b5329bf)
+    But Mostly i have used copilot but it does not support chat sharable link but i have shown in demo video link.
 
 
 🧠 Built With Copilot
@@ -46,7 +49,7 @@ src/
 
 
 🧪 How to Run Locally
-git clone https://github.com/your-username/book-finder-app
+git clone https://github.com/Sahil8709/Book-Finder
 cd book-finder-app
 npm install
 npm run dev
@@ -69,7 +72,7 @@ Alex is a college student who needs a fast, intuitive way to find books for assi
 📬 Contact
 Built by Md Sahil
 📧 sahilraza87097@gmail.com
-🔗 LinkedIn | GitHub
+🔗Linkdin= https://www.linkedin.com/in/mdsahil8709 | GitHub = https://github.com/Sahil8709
 
 
 
